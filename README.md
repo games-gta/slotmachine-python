@@ -1,4 +1,4 @@
 # slotmachine-python
 This is my first github project.
 <br>
-Author- Carry Gmaes
+Author- Carry Games (king)
